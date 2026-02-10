@@ -1,4 +1,5 @@
 🎓 Student Details Program in Java
+
 📌 Description
 
 This Java program collects and displays student details using the Scanner class.
