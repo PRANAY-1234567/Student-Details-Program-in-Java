@@ -94,6 +94,7 @@ Finally, all student details are printed to the console
 
 🖨 Sample Output
 --- Student Details ---
+
 Roll No: 101
 Name: Rahul
 Mobile Number: 9876543210
