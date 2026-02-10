@@ -3,6 +3,7 @@
 📌 Description
 
 This Java program collects and displays student details using the Scanner class.
+
 It demonstrates how to take different types of user input (int, String, long, float, double, boolean) from the console and print them in a structured format.
 
 This is a beginner-level Java program, commonly asked in college practicals and interviews.
