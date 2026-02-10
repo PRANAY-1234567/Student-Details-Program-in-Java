@@ -134,5 +134,4 @@ Use loops for multiple students
 Save details to a file
 
 👨‍💻 Author
-
 Pranay Jadhao
