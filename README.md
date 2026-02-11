@@ -127,11 +127,8 @@ Learning user input in Java
 🚀 Possible Improvements
 
 Store data using a Student class
-
 Add validation for mobile number & percentage
-
 Use loops for multiple students
-
 Save details to a file
 
 👨‍💻 Author
