@@ -9,23 +9,16 @@ This is a beginner-level Java program, commonly asked in college practicals and 
 🧩 Problem Statement
 
 Create a Java program that:
-
 Takes student information from the user
-
 Displays the entered student details neatly
 
 ✅ Student Details Collected
 
 Roll Number (int)
-
 Name (String)
-
 Mobile Number (long)
-
 Percentage (float)
-
 CGPA (double)
-
 Pass Status (boolean)
 
 ✅ Code
