@@ -103,11 +103,8 @@ Console input/output
 🎯 Use Cases
 
 Java beginners
-
 College practical exams
-
 Interview preparation
-
 Learning user input in Java
 
 🚀 Possible Improvements
