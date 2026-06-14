@@ -77,15 +77,10 @@ Scanner is used to take input from the user
 Different methods are used for different data types:
 
 nextInt() → integer input
-
 nextLine() → string input
-
 nextLong() → long input
-
 nextFloat() → float input
-
 nextDouble() → double input
-
 nextBoolean() → boolean input
 
 scanner.nextLine() is used after nextInt() to clear the input buffer
